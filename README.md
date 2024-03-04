@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I’m Agnieszka 👋<br>a frontend developer currently living in Poland<br>🔭 I’m currently working on my web development skills<br>👯 I’m looking to collaborate with other developers<br>🌱 I’m currently learning Typescript<br>📫 How to reach me: agnieszka.jjjjj@gmail.com
+Hi! I’m Agnieszka 👋🔭 I’m currently working on my web development skills<br>👯 I’m looking to collaborate with other developers<br>🌱 I’m currently learning Typescript<br>📫 How to reach me: agnieszka.jjjjj@gmail.com
 
 
 ## 🌐 Socials:
